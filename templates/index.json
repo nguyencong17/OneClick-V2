@@ -139,67 +139,6 @@
         "padding_bottom": 32
       }
     },
-    "1661246556b905fdde": {
-      "type": "multicolumn",
-      "blocks": {
-        "1661246556ab0fcc05-0": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping Orders $60+",
-            "icon": "truck",
-            "icon_position": "left",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1661246556ab0fcc05-1": {
-          "type": "column",
-          "settings": {
-            "title": "30-days free return policy",
-            "icon": "dairy_free",
-            "icon_position": "left",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1661246556ab0fcc05-2": {
-          "type": "column",
-          "settings": {
-            "title": "100% Secure Payments",
-            "icon": "plane",
-            "icon_position": "left",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1661246556ab0fcc05-0",
-        "1661246556ab0fcc05-1",
-        "1661246556ab0fcc05-2"
-      ],
-      "settings": {
-        "title": "",
-        "sub-title": "",
-        "mod_class": "border-darker",
-        "heading_size": "h4",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "1661247508792d2166": {
       "type": "featured-collection",
       "settings": {
@@ -210,9 +149,9 @@
         "description_style": "uppercase",
         "collection": "mens",
         "show_card_collection": false,
-        "products_to_show": 3,
-        "columns_desktop": 3,
-        "full_width": false,
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "link",
         "enable_desktop_slider": false,
@@ -517,7 +456,6 @@
   "order": [
     "1663955354d4347362",
     "166123731426fbd8a6",
-    "1661246556b905fdde",
     "1661247508792d2166",
     "16639099959fcc61f9",
     "16639553608d564cc0",
