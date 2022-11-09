@@ -90,8 +90,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
             "title": "Editor's Pick",
-            "link_label": "Shop men",
-            "link": "shopify:\/\/collections\/mens",
+            "link_label": "Shop Woman",
+            "link": "shopify:\/\/collections\/woman",
             "link_style": "link",
             "desktop_content_position": "middle-center",
             "desktop_content_alignment": "center"
