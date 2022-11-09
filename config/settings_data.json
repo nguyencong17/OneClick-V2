@@ -243,8 +243,7 @@
       "header-02": {
         "type": "header-02",
         "settings": {
-          "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/atoms-logo_ab356fac-ace1-43d8-8c8a-369c6f83533b.png",
+          "color_scheme": "accent-1",
           "logo_text": "Atoms",
           "logo_font": "helvetica_n4",
           "logo_width": 100,
