@@ -1,18 +1,5 @@
 {
   "sections": {
-    "79ec935a-37e6-4b8a-a431-4d919d21d408": {
-      "type": "marquee",
-      "settings": {
-        "marquee_text": "<p>SPECIAL OFFER: ENJOY 3 MONTHS OF SHOPIFY FOR $1\/MONTH<\/p>",
-        "copy": 5,
-        "direction": "left",
-        "behavior": "scroll",
-        "scrollamount": 6,
-        "color_scheme": "accent-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1663955354d4347362": {
       "type": "slideshow",
       "blocks": {
@@ -512,7 +499,6 @@
     }
   },
   "order": [
-    "79ec935a-37e6-4b8a-a431-4d919d21d408",
     "1663955354d4347362",
     "166123731426fbd8a6",
     "1661246556b905fdde",
