@@ -3318,6 +3318,58 @@
       "preset": {
         "name": "Custom section"
       }
+    },
+    "marquee": {
+      "name": "Marquee",
+      "settings": {
+        "marquee_text": {
+          "label": "Text",
+          "info": "Element is used to insert a scrolling area of text."
+        },
+        "direction": {
+          "label": "Direction",
+          "info": "Sets the direction of the scrolling within the marquee.",
+          "direction_1": {
+            "label": "Left"
+          },
+          "direction_2": {
+            "label": "Right"
+          },
+          "direction_3": {
+            "label": "Up"
+          },
+          "direction_4": {
+            "label": "Down"
+          }
+        },
+        "behavior": {
+          "label": "Behavior",
+          "info": "Sets how the text is scrolled within the marquee.",
+          "behavior_1": {
+            "label": "Scroll"
+          },
+          "behavior_2": {
+            "label": "Slide"
+          },
+          "behavior_3": {
+            "label": "Alternate"
+          }
+        },
+        "scrollamount": {
+          "label": "Speed",
+          "info": "Sets the amount of scrolling at each interval in pixels. The default value is 6."
+        },
+        "copy": {
+          "label": "Copy Text",
+          "info": "Sets the amount of text. The default value is 6."
+        },
+        "full_width": {
+          "label": "Make section full width"
+        }
+      },
+      "presets": {
+        "name": "Marquee"
+      }
     }
   }
 }

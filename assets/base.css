@@ -1422,6 +1422,11 @@ deferred-media {
     display: block;
 }
 
+/* Marquee */
+marquee p {
+  display: inline-block;
+}
+
 
 /* Icon */
 
