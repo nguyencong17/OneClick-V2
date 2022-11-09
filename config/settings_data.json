@@ -427,8 +427,8 @@
       "marquee": {
         "type": "marquee",
         "settings": {
-          "marquee_text": "<p>SPECIAL OFFER: ENJOY 3 MONTHS OF SHOPIFY FOR $1\/MONTH<\/p>",
-          "copy": 5,
+          "marquee_text": "<p>SPECIAL OFFER: ENJOY 3 MONTHS OF SHOPIFY FOR $1\/MONTH                      <\/p>",
+          "copy": 6,
           "direction": "left",
           "behavior": "scroll",
           "scrollamount": 6,
