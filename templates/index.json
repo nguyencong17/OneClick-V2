@@ -88,7 +88,8 @@
         "166123731380862203-0": {
           "type": "column",
           "settings": {
-            "title": "Made For Day & Night",
+            "image": "shopify:\/\/shop_images\/minimalist-retail-clothing-display.jpg",
+            "title": "Editor's Pick",
             "link_label": "Shop men",
             "link": "shopify:\/\/collections\/mens",
             "link_style": "link",
@@ -99,9 +100,22 @@
         "166123731380862203-1": {
           "type": "column",
           "settings": {
-            "title": "Spring\/Winter Collections",
+            "image": "shopify:\/\/shop_images\/dribbling-basketball.jpg",
+            "title": "Shoes",
             "link_label": "Shop women",
             "link": "shopify:\/\/collections\/women",
+            "link_style": "link",
+            "desktop_content_position": "middle-center",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "9362a80c-2213-4c68-82e7-26affb2f3e79": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qr-codes-in-store.jpg",
+            "title": "Accessories",
+            "link_label": "",
+            "link": "",
             "link_style": "link",
             "desktop_content_position": "middle-center",
             "desktop_content_alignment": "center"
@@ -110,7 +124,8 @@
       },
       "block_order": [
         "166123731380862203-0",
-        "166123731380862203-1"
+        "166123731380862203-1",
+        "9362a80c-2213-4c68-82e7-26affb2f3e79"
       ],
       "settings": {
         "title": "",
@@ -120,8 +135,8 @@
         "columns_desktop": 2,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "1661246556b905fdde": {
