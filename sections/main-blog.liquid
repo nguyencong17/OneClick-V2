@@ -18,7 +18,7 @@
 {%- endstyle -%}
 
 {%- paginate blog.articles by 6 -%}
-  {%- render 'breadcrumb'- %}
+  {%- render 'breadcrumb' %}
   <div class="main-blog page-width section-{{ section.id }}-padding">
     <h1 class="page--title h1">{{ blog.title | escape }}</h1>
 
@@ -235,3 +235,13 @@
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- render 'breadcrumb'- %}"
+  to: "{%- render 'breadcrumb' %}"
+  position: 729..755
+{% endcomment %}
